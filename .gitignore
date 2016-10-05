@@ -1,0 +1,3 @@
+/.lein-*
+/rethinkdb_data
+/target
